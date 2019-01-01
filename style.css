@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    pading: 0;
+    font-family: Arial;
+}
+
+div {
+    position: absolute;
+    width: 40%;
+    height: 50%;
+    background-color: antiquewhite;
+    left: 30%;
+}
+h1 {
+    text-align: center;
+}
+btn {
+    background-color: red;
+}
+btn1 {
+    text-decoration: underline;
+}
